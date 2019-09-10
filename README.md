@@ -49,6 +49,6 @@ sdat count -d 200 -p 10 -gtf  gtf_file  -g Reads_number_per_cell.log  -in cell_f
 
 # Attention:  
 
-a. the input data for "sdat filters" need to be clean data
+a. the input data for "sdat filters" need to be clean data and suffix of your input fastq file should be _R1.fq,_R2.fq
 
 b. If you align the reads with your own scripts, make sure that the input file for 'sdat cell' is sorted by postion. 
