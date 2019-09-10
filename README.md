@@ -2,6 +2,8 @@ SPLiT-seq Data Analysis Toolkit (SDAT)
 
 SDAT is designed for analysing SPLiT-seq data
 
+suitable for python2 and python3
+
 
 # News
 
