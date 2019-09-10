@@ -10,7 +10,7 @@ def pipeline():
         print('')
         print("##############################################################################################")
         print('')
-        print("   SDAT: SPLiT-seq Data Analysis Toolkit-0.1.5")
+        print("   SDAT: SPLiT-seq Data Analysis Toolkit-0.1.6")
         print("")
         print("   Please contact chipeyown@gmail.com when questions arise.")
         print("")
