@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='sdat',
-    version='0.1.5',
+    version='0.1.6',
     url='https://github.com/Chipeyown/SPLiT-seq-Data-Analysis_Toolkit',
     description='A toolkit for analysing SPLiT-seq data',
     author='Chipeyown',
