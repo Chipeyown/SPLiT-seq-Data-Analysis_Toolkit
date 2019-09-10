@@ -24,7 +24,7 @@ def align():
         print("")
         print("   Usage:")
         print("")
-        print("      sdat align   [options]   -G index_dir  -fq xxxx_filtered.fq")
+        print("      sdat align   [options]   -G index_dir  -fq path/to/xxxx_filtered.fq")
         print("")
         print("      options:")
         print("         -gtf   filename        # Path to your gtf file")
