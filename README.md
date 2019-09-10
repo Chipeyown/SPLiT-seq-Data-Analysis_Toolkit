@@ -49,4 +49,4 @@ sdat count -d 200 -p 10 -gtf  gtf_file  -g Reads_number_per_cell.log  -in cell_f
 
 a. the input data for "sdat filters" need to be clean data
 
-b. If you align the reads with your own scripts, the input file for 'sdat cell' should be sorted by postion. 
+b. If you align the reads with your own scripts, make sure that the input file for 'sdat cell' is sorted by postion. 
